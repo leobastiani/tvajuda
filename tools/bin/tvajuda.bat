@@ -1,0 +1,1 @@
+nircmd clipboard set "https://download.teamviewer.com/download/TeamViewerQS.exe"
